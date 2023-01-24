@@ -521,6 +521,10 @@ footer .socials > a:hover svg path {
     text-align: center;
     padding: 0px 10px;
   }
+  
+  .showcase-info h2{
+    text-align: center;
+  }
 
   /* testimonies */
   .testimonies {
