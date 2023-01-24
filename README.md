@@ -1,4 +1,4 @@
-# sunnyside-project
+# sunnyside-agency-landing-page
 
 ## Layout
 
