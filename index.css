@@ -518,11 +518,10 @@ footer .socials > a:hover svg path {
   }
 
   .showcase-info p {
-    text-align: center;
     padding: 0px 10px;
   }
   
-  .showcase-info h2{
+  .showcase-info h2,.showcase-info p{
     text-align: center;
   }
 
